@@ -1,4 +1,4 @@
-import { Module as PinaModule, Component } from "../../../../src/modules/index"//"../../modules/index"
+import { Module as PinaModule, Component } from "../../../pina-src/src/modules/index"//"../../modules/index"
 
 interface Rule {
     rule: RegExp,
